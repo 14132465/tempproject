@@ -1,4 +1,4 @@
-﻿package com.tingtong.server.game.back.cross.data;
+package com.tingtong.server.game.back.cross.data;
 
 import java.util.Date;
 
@@ -16,6 +16,9 @@ import lombok.experimental.Accessors;
  * @param <T>
  */
 //=====
+ //sdsdfds
+ //111
+
 @Data
 @Accessors(chain = true)
 public class StcProto<T> {
